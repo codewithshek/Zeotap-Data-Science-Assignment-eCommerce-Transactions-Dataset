@@ -1,5 +1,5 @@
 
-## PROJECT -- 01 
+## PROJECT -- 01
 
 > Exploratory Data Analysis (EDA) on Customer Data
 
